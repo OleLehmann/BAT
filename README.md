@@ -60,11 +60,11 @@ Status: !200
 #### Mining API
 
 ### Main documentation
-Wiki: [BCAT Wiki](https://github.com/Glebegor/BCAT/wiki)
+Wiki: [BAT Wiki](https://github.com/wagmi97/BAT/wiki)
 
 ### Protocol
-Blockchain will has custom protocol based on TCP/IP - BCAT Protocol.</br>
-BCAT need to work with blocks, transactions, wallets, mining etc.</br>
+Blockchain will has custom protocol based on TCP/IP - BAT Protocol.</br>
+BAT need to work with blocks, transactions, wallets, mining etc.</br>
 Protocol will use json format for data exchange.</br>
 
 ## Installation
