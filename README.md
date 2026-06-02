@@ -1,9 +1,9 @@
-# BCAT - Blockchain Anonymous Token
+# BAT - Blockchain Anonymous Token
 
 ## Description
-BCAT is a test blockchain to understand web 3.0 technology.
-BCAT has 6 "I't will be":
-- It will be public blockchain.
+BAT is a test blockchain to understand web 3.0 technology.
+BAT has 6 "I't will be":
+- It will be a public blockchain.
 - It will be anonymous.
 - It will be fast.
 - It will be secure.
